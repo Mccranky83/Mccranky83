@@ -1,4 +1,4 @@
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mccranky83&repo=github-readme-stats&show_owner=true&theme=cobalt)](https://github.com/mccranky83/github-readme-stats)
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mccranky83&repo=github-readme-stats&show_owner=true&theme=cobalt)](https://github.com/mccranky83/github-readme-stats) -->
 
 ### _&ensp;&ensp;Hello there!_
 
