@@ -4,7 +4,7 @@
 
 > You're visiting Mccranky83's profile
 
-There's probably not much to see here yet, but feel free to wander around regardless!
+There's probably not much to see here _yet_, but feel free to wander around regardless!
 
 [![Mccranky83's GitHub stats](https://github-readme-stats.vercel.app/api?username=mccranky83&theme=cobalt&show_icons=true&hide=prs)](https://github.com/mccranky83/github-readme-stats)
 
