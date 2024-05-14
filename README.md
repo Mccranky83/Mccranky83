@@ -15,7 +15,9 @@
 - 🌱 Wondering if Perl, or "Bash on steroids", is any good.
     
 - 🧐 Fidgeting a little with the idea of learning ARM assembly.
-    
+
+- 🌲 CMV: Everforest colorscheme is the best!
+
 </div>
 
 ### Github Stats
