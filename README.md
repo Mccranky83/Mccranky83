@@ -10,7 +10,7 @@
     
 - 💪 I'm currently grinding on my programming skills.
     
-- 👁️ Looking into anything that catches my fancy.
+- 👁️ Would look into anything that catches my fancy.
     
 - 🌱 Wondering if Perl, or "Bash on steroids", is any good.
     
