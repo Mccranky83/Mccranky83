@@ -13,7 +13,7 @@
       <tr>
         <td>
           <div>
-              <samp>There's probably not much to see here <i>yet</i>, but feel free to wander around regardless!\n</samp>
+              <samp>There's probably not much to see here <i>yet</i>, but feel free to wander around regardless!</samp>
           </div>
           <hr />
           <div align="center">
@@ -65,6 +65,17 @@
           <div align="center">
 
 <!--START_SECTION:waka-->
+
+```lua
+From: 20 August 2024 - To: 21 August 2024
+
+Total Time: 35 mins
+
+YAML       21 mins         >>>>>>>>>>>>>>>----------   59.04 %
+Lua        9 mins          >>>>>>-------------------   25.44 %
+Markdown   5 mins          >>>>---------------------   14.60 %
+Other      0 secs          -------------------------   00.93 %
+```
 
 <!--END_SECTION:waka-->
 
