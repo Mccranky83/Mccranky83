@@ -62,12 +62,13 @@
       </tr>
       <tr>
         <td colspan="2">
-          <div align="center">          
-            <!--START_SECTION:waka-->
-            <!--END_SECTION:waka-->
-          </div>
-        </td>
-      </tr>
+          <div align="center">
+
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
+
+</div></td></tr>
     </table>
     <h4>Languages and Tools:</h4>
     <img alt="Neovim" width="26px" src="https://raw.githubusercontent.com/github/explore/26674e638508ac4a4e113ee32d6755ebfa000569/topics/neovim/neovim.png" />
