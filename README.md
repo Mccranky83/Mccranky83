@@ -12,7 +12,10 @@
     <table>
       <tr>
         <td>
-          <samp>There's probably not much to see here <i>yet</i>, but feel free to wander around regardless!</samp>
+          <div>
+              <samp>There's probably not much to see here <i>yet</i>, but feel free to wander around regardless!\n</samp>
+          </div>
+          <hr />
           <div align="center">
             <table>
               <tr>
