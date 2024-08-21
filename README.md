@@ -13,7 +13,7 @@
       <tr>
         <td>
           <div>
-              <samp>There's probably not much to see here <i>yet</i>, but feel free to wander around regardless!\n</samp>
+              <samp>There's probably not much to see here <i>yet</i>, but feel free to wander around regardless!</samp>
           </div>
           <hr />
           <div align="center">
