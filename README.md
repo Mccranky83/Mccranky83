@@ -64,7 +64,19 @@
         <td colspan="2">
           <div align="center">          
             <!--START_SECTION:waka-->
-            <!--END_SECTION:waka-->
+
+```lua
+From: 20 August 2024 - To: 21 August 2024
+
+Total Time: 35 mins
+
+YAML       21 mins         >>>>>>>>>>>>>>>----------   59.04 %
+Lua        9 mins          >>>>>>-------------------   25.44 %
+Markdown   5 mins          >>>>---------------------   14.60 %
+Other      0 secs          -------------------------   00.93 %
+```
+
+<!--END_SECTION:waka-->
           </div>
         </td>
       </tr>
