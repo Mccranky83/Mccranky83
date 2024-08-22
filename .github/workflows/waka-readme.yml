@@ -3,7 +3,9 @@ name: Waka Readme
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 4,16 * * *"
+    # Updates at 12 AM UTC (5:30 AM IST)
+    # Wait for 30 minutes before fetching
+    - cron: "30 0 * * *"
 
 jobs:
   update-readme:
