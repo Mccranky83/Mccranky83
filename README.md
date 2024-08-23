@@ -67,14 +67,15 @@
 <!--START_SECTION:waka-->
 
 ```lua
-From: 20 August 2024 - To: 21 August 2024
+From: 20 August 2024 - To: 22 August 2024
 
-Total Time: 35 mins
+Total Time: 1 hr 39 mins
 
-YAML       21 mins         >>>>>>>>>>>>>>>----------   59.04 %
-Lua        9 mins          >>>>>>-------------------   25.44 %
-Markdown   5 mins          >>>>---------------------   14.60 %
-Other      0 secs          -------------------------   00.93 %
+YAML       1 hr 12 mins    >>>>>>>>>>>>>>>>>>-------   71.94 %
+Markdown   18 mins         >>>>>--------------------   18.05 %
+Lua        9 mins          >>-----------------------   09.14 %
+conf       0 secs          -------------------------   00.53 %
+Other      0 secs          -------------------------   00.33 %
 ```
 
 <!--END_SECTION:waka-->
