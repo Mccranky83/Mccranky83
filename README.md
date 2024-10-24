@@ -87,6 +87,7 @@ HTML         1 hr 18 mins    -------------------------   00.75 %
 
 </div></td></tr>
     </table>
+    <img src="https://count.getloli.com/@:Mccranky83?name=%3AMccranky83&theme=rule34&padding=7&offset=7&scale=0.8&pixelated=1&darkmode=auto" alt=":Mccranky83" />
     <h4>Languages and Tools:</h4>
     <img alt="Neovim" width="26px" src="https://raw.githubusercontent.com/github/explore/26674e638508ac4a4e113ee32d6755ebfa000569/topics/neovim/neovim.png" />
     <img alt="Kitty" width="26px" src="https://sw.kovidgoyal.net/kitty/_static/kitty.svg" />
