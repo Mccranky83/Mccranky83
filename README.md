@@ -67,18 +67,18 @@
 <!--START_SECTION:waka-->
 
 ```lua
-From: 20 August 2024 - To: 30 January 2025
+From: 20 August 2024 - To: 31 January 2025
 
-Total Time: 267 hrs 52 mins
+Total Time: 268 hrs 11 mins
 
-JavaScript     192 hrs 23 mins >>>>>>>>>>>>>>>>>>-------   70.37 %
+JavaScript     192 hrs 36 mins >>>>>>>>>>>>>>>>>>-------   70.37 %
 Lua            12 hrs 59 mins  >------------------------   04.75 %
 C++            9 hrs 14 mins   >------------------------   03.38 %
-Markdown       8 hrs 35 mins   >------------------------   03.14 %
-JSON           6 hrs 44 mins   >------------------------   02.47 %
-HTML           6 hrs 41 mins   >------------------------   02.45 %
-Text           6 hrs 31 mins   >------------------------   02.39 %
-Other          5 hrs 30 mins   >------------------------   02.02 %
+Markdown       8 hrs 40 mins   >------------------------   03.17 %
+JSON           6 hrs 44 mins   >------------------------   02.46 %
+HTML           6 hrs 41 mins   >------------------------   02.44 %
+Text           6 hrs 31 mins   >------------------------   02.38 %
+Other          5 hrs 30 mins   >------------------------   02.01 %
 zsh            3 hrs 59 mins   -------------------------   01.46 %
 CSS            2 hrs 35 mins   -------------------------   00.95 %
 ```
