@@ -4,7 +4,7 @@
 
   <p>
     <samp>
-        4<sup>th</sup> year CS student and a wannabe programmer
+        CS student and a wannabe programmer
     </samp>
   </p>
   <details>
