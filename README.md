@@ -67,7 +67,7 @@
 <!--START_SECTION:waka-->
 
 ```lua
-From: 20 August 2024 - To: 12 February 2026
+From: 20 August 2024 - To: 13 February 2026
 
 Total Time: 400 hrs 57 mins
 
